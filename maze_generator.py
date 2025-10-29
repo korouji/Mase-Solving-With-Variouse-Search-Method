@@ -1,4 +1,4 @@
-# Maze Engine - Clean Version
+# Maze Engine 
 
 """
 MazeEngine.py
