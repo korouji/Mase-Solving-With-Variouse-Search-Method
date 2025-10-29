@@ -56,7 +56,6 @@ def dfs_with_stats(maze_data):
 
     end_time = time.time()
 
-    # بازسازی مسیر
     path = []
     node = goal
     while node in parent and node is not None:
