@@ -68,7 +68,7 @@ def print_ascii(grid, path, start, goal):
                 line += '.'
         print(line)
 
-# اجرای مثال
+
 grid, start, goal = load_maze_from_file('maze1.json')
 result = bfs_json(grid, start, goal)
 
